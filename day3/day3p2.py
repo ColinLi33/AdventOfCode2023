@@ -43,10 +43,3 @@ with open(file_path, 'r') as file:
                         product *= int(k)
                     total+=product  
     print(total)
-
-                        
-                    
-                
-                
-    
-

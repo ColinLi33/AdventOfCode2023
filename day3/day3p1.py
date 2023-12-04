@@ -42,10 +42,3 @@ with open(file_path, 'r') as file:
                     total += checkNums(i,numStart,numEnd,arr)
                     numStart = -1
     print(total)
-
-                        
-                    
-                
-                
-    
-
